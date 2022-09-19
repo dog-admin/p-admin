@@ -8,12 +8,19 @@ P-admin基于layui的轻量级前端后台管理框架，简单免费，兼容�
 
 ##
 pig!!! 懒 让我们技术进步，学习让技术为我们的懒服务!!!
-##
 
+##
+风格1
+![image](https://pig-admin.github.io/p-admin/doc/style1.png)
+风格2
+![image](https://pig-admin.github.io/p-admin/doc/style2.png)
+风格3
+![image](https://pig-admin.github.io/p-admin/doc/style2.png)
 ## 官网
 
 padmin.51souta.com
 
+##分格介绍
 
 ## 2022-01-01
 
