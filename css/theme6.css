@@ -1,0 +1,27 @@
+body{
+    background:#EEF5F9 !important;
+}
+.container{
+    background:linear-gradient(to left, #0fd41e, #06975a);
+}
+
+.left-nav{
+    background:#fff !important;
+}
+
+.left-nav a{
+    color:#686a76 !important;
+}
+.left-nav a.active{
+    background: linear-gradient(to left, #7c8ce4, #06975a) !important;
+    color: #fff !important;
+    border-color:  #7b4397 !important;
+}
+.left-nav a:hover{
+    background: linear-gradient(to left, #7c8ce4, #06975a) !important;
+    color: #fff !important;
+    border-color:  #7b4397 !important;
+}
+.container .logo a{
+    background: rgba(0,0,0,0) !important;
+}
